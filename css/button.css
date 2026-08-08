@@ -139,12 +139,16 @@
 
 .email {
   top: 300px;
-  left: 43%;
 }
 
 .cv {
   top: 400px;
-  left: 43%;
+}
+
+.email, 
+.cv  {
+  width: 200px;
+  left: 40%;
 }
 
 .button-index:hover, .email:hover, .cv:hover {

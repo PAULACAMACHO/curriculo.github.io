@@ -156,7 +156,7 @@ color: var(--clr-yellow);
   margin-left: 310px;
 }
 
-.text h1, h2 {
+.text h1, .text1 h2 {
   position: absolute;
   z-index: 1;
   text-align: center;
@@ -171,9 +171,9 @@ color: var(--clr-yellow);
   text-transform: uppercase;
 }
 
-.text h2{
+.text1 h2{
   font-size: 30px;
-  top: 200px;
+  top: 100px;
   text-transform: uppercase;
 }
 
