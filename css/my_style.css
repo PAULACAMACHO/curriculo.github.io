@@ -155,6 +155,7 @@ color: var(--clr-yellow);
   position: relative;
   margin-left: 310px;
   max-width: 1024px;
+  margin: auto;
 }
 
 .text h1, .text1 h2 {
