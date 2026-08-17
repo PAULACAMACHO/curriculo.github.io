@@ -157,7 +157,8 @@ color: var(--clr-yellow);
 }
 
 article {
-  max-width: 1024px;
+  max-width: 100%;
+  margin: auto;
 }
 
 .text h1, .text1 h2 {
