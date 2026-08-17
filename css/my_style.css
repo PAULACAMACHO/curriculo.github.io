@@ -154,6 +154,9 @@ color: var(--clr-yellow);
 .main {
   position: relative;
   margin-left: 310px;
+}
+
+article {
   max-width: 100%;
   margin: auto;
 }
