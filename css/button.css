@@ -132,6 +132,13 @@
   font-size: 16px;
 }
 
+.button-index {
+  top: 50%; /* Moves button to the middle vertically */
+  left: 50%; /* Moves button to the middle horizontally */
+  transform: translate(-50%, -50%); /* Centers the button */
+  padding: 10px 20px;
+}
+
 .email {
   top: 300px;
 }
