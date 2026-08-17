@@ -132,10 +132,10 @@
   font-size: 16px;
 }
 
-.button-index, .email{
+.button-index, .email, .cv{
   top: 50%; /* Moves button to the middle vertically */
   left: 50%; /* Moves button to the middle horizontally */
-  transform: translate(50%, 50%); /* Centers the button */
+  /*transform: translate(50%, 50%); /* Centers the button */
 }
 
 /*.email {
