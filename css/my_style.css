@@ -154,6 +154,7 @@ color: var(--clr-yellow);
 .main {
   position: relative;
   margin-left: 310px;
+  max-width: 1024px;
 }
 
 .text h1, .text1 h2 {
