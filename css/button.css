@@ -132,25 +132,24 @@
   font-size: 16px;
 }
 
-.button-index {
-  top: 50%; /* Moves button to the middle vertically */
-  left: 50%; /* Moves button to the middle horizontally */
-  transform: translate(-50%, -50%); /* Centers the button */
-  padding: 10px 20px;
+.button-index, .email, .cv{
+  position: absolute;
+  z-index: 1;
+  padding: 15px 32px;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.button-index{
+  margin-top: 40%;
 }
 
 .email {
-  top: 300px;
+  margin-top: 30%;
 }
 
 .cv {
-  top: 400px;
-}
-
-.email, 
-.cv  {
-  width: 200px;
-  left: 40%;
+  margin-top: 40%;
 }
 
 .button-index:hover, .email:hover, .cv:hover {
