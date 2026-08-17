@@ -134,7 +134,7 @@
 }
 
 .button-index{
-  left: 40%;
+  transform: translate(-50%, -50%); /* Centers the button */
 }
 
 .email {
